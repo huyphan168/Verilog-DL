@@ -1,0 +1,1 @@
+write_mem -force -depth 8388608 -format bin -interface mb -meminfo {weights.bin} -nolog -offset 0x00000000 -to {conv1_weights}
