@@ -1,0 +1,4 @@
+data/
+.vscode-upload.json
+model.pth
+fpga_weights/
